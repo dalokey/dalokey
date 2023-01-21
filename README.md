@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+Dalokey here 😏 (Pronouns: He/Him),
+I am a Full Stack Developer. I enjoy playing and making games.
+____
+I mostly use C# and Javascript to come up with code that can be useful.
+
+Feel free to reach out if you need help with a project!
+
+And if you feel like it, then buy me a coffee 😸 https://www.buymeacoffee.com/dalokey
+
 <!--
 **dalokey/dalokey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
